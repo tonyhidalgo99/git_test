@@ -1,0 +1,2 @@
+This will be my first commit on my own.
+Remember first it is git add <file name> then git commit .
